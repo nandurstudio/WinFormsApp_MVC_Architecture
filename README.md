@@ -2,6 +2,24 @@
 
 > Windows Forms Application dengan arsitektur MVC menggunakan VB.NET dan MySQL
 
+## 📋 Project Information
+
+**Tugas Akhir Semester** - Pemrograman Visual (Desktop)
+
+| Detail | Keterangan |
+|--------|------------|
+| **Mata Kuliah** | TIF503 - Pemrograman Visual (Desktop) |
+| **SKS** | 3 SKS |
+| **Semester** | 5 (Ganjil) |
+| **Kelas** | TI.23.B.1 |
+| **Dosen** | Asep Muhidin, S.Kom., M.Kom. |
+| **Jurusan** | Teknik Informatika |
+| **Universitas** | Universitas Pelita Bangsa |
+| **Tahun Akademik** | 2024/2025 |
+| **Mahasiswa** | Nandang Duryat (312310233) |
+
+---
+
 ## 🚀 Quick Start (5 Menit)
 
 ### Prerequisites
@@ -396,4 +414,12 @@ MIT License
 
 ## 👨‍💻 Author
 
-**Nandang Duryat** - NIM: 312310233 - TI.23.B1 - Universitas Pelita Bangsa
+**Nandang Duryat**  
+NIM: 312310233  
+Kelas: TI.23.B.1  
+Jurusan: Teknik Informatika  
+Universitas Pelita Bangsa
+
+---
+
+**© 2025 Nandang Duryat** | Tugas UAS Pemrograman Visual
