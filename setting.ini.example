@@ -7,6 +7,6 @@ Port=3306
 
 [AppConfig]
 AppName=Aplikasi Penjualan MVC
-Version=2.0.0
+Version=1.0.0
 Author=Nandang Duryat (312310233)
 University=Universitas Pelita Bangsa

@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
@@ -6,6 +6,28 @@
     <StartupObject>WinFormsApp_Latihan.Program</StartupObject>
     <UseWindowsForms>true</UseWindowsForms>
     <MyType>WindowsForms</MyType>
+    
+    <!-- Application Information -->
+    <AssemblyName>AplikasiPenjualanMVC</AssemblyName>
+    <Product>Aplikasi Penjualan &amp; Pembelian MVC</Product>
+    <Description>Desktop Sales and Purchase Management System with Clean MVC Architecture</Description>
+    <Company>Universitas Pelita Bangsa</Company>
+    <Copyright>Copyright © 2025 Nandang Duryat</Copyright>
+    <Authors>Nandang Duryat</Authors>
+    
+    <!-- Version Information -->
+    <Version>1.0.0</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    
+    <!-- Application Icon (optional) -->
+    <ApplicationIcon />
+    
+    <!-- Enable PublishSingleFile for release -->
+    <PublishSingleFile>true</PublishSingleFile>
+    <SelfContained>false</SelfContained>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <PublishReadyToRun>true</PublishReadyToRun>
   </PropertyGroup>
 
   <ItemGroup>
